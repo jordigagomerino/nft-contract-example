@@ -4,7 +4,7 @@ An example of NFT contract
 ```bash
 0xf544C0A754F96d2902516F2952FBEacEBe6aC407	
 ```
-### Private key: 0x417d74048fe224b3d27c8d111fe11cf5b8a9a3a5d94bf47f368c19036696a51f
+### Private key:
 ```bash
 0x417d74048fe224b3d27c8d111fe11cf5b8a9a3a5d94bf47f368c19036696a51f
 ```
